@@ -1,7 +1,9 @@
 package main
 
+import "fmt"
+
 func main() {
-	println("satu =", 1)
-	println("dua =", 2)
-	println("tiga koma lima =", 3.5)
+	fmt.Println("satu =", 1)
+	fmt.Println("dua =", 2)
+	fmt.Println("tiga koma lima =", 3.5)
 }
